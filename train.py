@@ -57,7 +57,7 @@ tokenized_dataset.set_format('torch')
 data_collator = DataCollatorWithPadding(tokenizer=TOKENIZER)
 training_args = TrainingArguments(
     output_dir="D:/CryptoSentimentAnalysisTrainingOutput/results/",
-    eval_strategy='epoch',
+    eval_strategy='steps',
     num_train_epochs=3,
     per_device_train_batch_size=16,
     per_device_eval_batch_size=64,
