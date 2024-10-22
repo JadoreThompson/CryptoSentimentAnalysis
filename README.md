@@ -33,4 +33,4 @@ If you're interested in collaborating or have any opportunities, feel free to co
 
 ## Evaluation
 
-In the future I’m looking to build a list and phrases that indicate sentiment in an attempt to aid the model then combined with the CIMAWA model mentioned in the FBert paper. All in all this was a good experience for getting hands on with ML following my [Property Valuation Project](https://github.com/JadoreThompson/property-valuation-v2) where I used Gemini to feed a chain of prompts gathering data from a Postgres DB and leveraging SERP to harbour more data.
+In the future I’m looking to build a list and phrases that indicate sentiment in an attempt to aid the model then combined with the CIMAWA model mentioned in the FBert paper. All in all this was a good experience for getting hands on with ML following my [Property Valuation Project](https://github.com/JadoreThompson/property-valuation-v2) where I used Gemini to feed a chain of prompts gathering data from a Postgres DB and leveraging SERP to harbour more data. If you've cloned  the repo fell free to contact me too I'd like to communicate with people who find my work interesting
